@@ -1,0 +1,1 @@
+# Write-a-external-JavaScript-code-to-check-whether-a-imputed-value-is-a-number-or-not
